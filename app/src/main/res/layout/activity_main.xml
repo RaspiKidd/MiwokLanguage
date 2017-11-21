@@ -26,8 +26,7 @@
         android:id="@+id/numbers"
         style="@style/CategoryStyle"
         android:background="@color/category_numbers"
-        android:text="@string/category_numbers"
-        android:onClick="openNumbersList"/>
+        android:text="@string/category_numbers"/>
 
     <TextView
         android:id="@+id/family"
@@ -36,10 +35,10 @@
         android:text="@string/category_family" />
 
     <TextView
-        android:id="@+id/colors"
+        android:id="@+id/colours"
         style="@style/CategoryStyle"
         android:background="@color/category_colors"
-        android:text="@string/category_colors" />
+        android:text="@string/category_colours" />
 
     <TextView
         android:id="@+id/phrases"
